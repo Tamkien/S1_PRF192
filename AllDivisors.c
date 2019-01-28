@@ -1,8 +1,8 @@
 /*
-*File name:
-*Source file name:
 *Author: Tamkien Cao
-*Last modified: Wed, Jan 23rd, 2019
+*Last modified: Mon, Jan 28th, 2019
+*Version: 1.0
+*Reason of modification: translate everything into English.
 *Other info:
 -This is the 16th exercise from the workshop.
 **/
@@ -12,10 +12,10 @@
 main()
 {
 	int n, i;
-	printf("Phan mem nay se giup ban liet ke cac uoc so cua so nguyen n.\n");
-	printf("Nhap n vao day:\n");
+	printf("This program can help you find out all the divisors of your number.\n");
+	printf("Insert your number here\n");
 	scanf_s("%d", &n);
-	printf("Cac uoc so cua %d la ",n);
+	printf("All the divisors of %d is ",n);
 	for (i = 1; i <= n; i++)
 	{
 		if (n%i == 0 && i < n)
@@ -30,7 +30,7 @@ main()
 
 	printf("\n=================================\n");
 	printf("Written by Tamkien Cao. Thank you for using my application!\n");
-	//credit line, neu xoa dong nay ctrinh se ko chay duoc;
+	//credit line, dont fucking delete it.
 	system("pause");
 }
 
