@@ -46,7 +46,7 @@ main()
 	}
 /*The idea is, prime numbers have no divisor except 1 and themselves.
   If n has any divisors, they must be smaller than n/2, exactly sqrt(n).
-  However, as i'm using n/2, it's not true when n is 2 or 3. Therefore i had to add two exceptions in the 24th line.
+  However, as i'm using n/2, it's not true when n is 2 or 3. Therefore i had to add two exceptions in the 27th line.
 */
 
 
