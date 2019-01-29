@@ -3,9 +3,14 @@
 *Source file name:
 *Author: Tamkien Cao
 *Last modified: Thu, Jan 24th, 2019
+*Version: 1.0
+*Changelog: 
+-Translate everything into English.
+-Edited some disordering brackets.
+-Added some comments.
 *Other info:
 -This is the 20th exercise from the workshop.
--The idea had been hacked from http://bit.do/eGvJu
+-[README] The idea had been hacked from http://bit.do/eGvJu
 **/
 #include<stdio.h>
 #include<stdlib.h>
@@ -13,25 +18,24 @@
 main()
 {
 	int a,b,x;
-	printf("Phan mem nay se giup ban tim uoc chung lon nhat cua 2 so.\n");
-	printf("Nhap so lon:\n");
+	printf("This program can find out the largest common multiplier (LCM) of two numbers.\n");
+	printf("Insert the larger number here:\n");
 	scanf_s("%d", &a);
-	printf("Nhap so be:\n");
+	printf("Insert the smaller number here:\n");
 	scanf_s("%d", &b);
-	while (1<2)
+	while (1<2)//always true
 	{
 	x = a % b;
 	if (x == 0)
-	{
-		printf("Uoc chung lon nhat cua hai so la %d.", b);
-		break;
-	}
+		{
+			printf("The LCM of your numbers is %d.", b);
+			break;//see the reason in the link. 
+		}
 	else
-	{
-		a = b;
-		b = x;
-
-	}
+		{
+			a = b;
+			b = x;
+		}
 	}
 	
 
