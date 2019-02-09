@@ -45,7 +45,7 @@ main()
 			{
 				printf("%d.", F2);
 			}
-			F = F1;//as we calculate F3, F3 is F2 and F1 is F in the 37th line
+			F = F1;//as we calculate F3, F3 is F2 and F1 is F in the 39th line
 			F1 = F2;//and F2 is F1. 
 		}
 	}
