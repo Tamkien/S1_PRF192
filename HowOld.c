@@ -4,7 +4,8 @@
 *Author: Tamkien Cao
 *Last modified: Wed, Feb 20th, 2019
 *Other info: exercise 1.1
-*Version: 1.0
+*Version: 2.0
+*Changelog: Do it as the exercise expected
 */
 
 #include<stdio.h>
@@ -20,11 +21,11 @@ main()
 		y = 2019 - yob;
 		if (y < 0 && y != -981)// 2019-3000 = -981
 		{
-			printf("You can't be born on this year dude :)\n");
+			printf("%d huh? You can't be born on this year dude :)\n", yob);
 		}
 		else if (y == 1)
 		{
-			printf("You are %d year old.\n", y);
+			printf("You were born in %d, so you are %d year old.\n", yob, y);
 		}
 		else if (y == -981)
 		{
@@ -32,7 +33,7 @@ main()
 		}
 		else//0 and more than 1
 		{
-			printf("You are %d years old.\n", y);
+			printf("You were born in %d, so you are %d years old.\n", yob, y);
 		}
 	} while (1);
 	printf("\n=================================\n");
