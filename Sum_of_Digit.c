@@ -2,9 +2,9 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Thu, Feb 21st, 2019
-*Other info: exercise 1.4
-*Version: 1.0
+*Last modified: Fri, Feb 22nd, 2019
+*Other info: exercise 1.5
+*Version: 1.1
 */
 #include<stdio.h>
 #include<stdlib.h>
