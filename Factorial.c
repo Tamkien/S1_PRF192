@@ -3,6 +3,7 @@
 *Source file name:
 *Author: Tamkien Cao
 *Last modified: Mon, Feb 25th, 2019
+*Version: 2.0 
 *Other info:
 -This is the 8th exercise from the workshop.
 **/
