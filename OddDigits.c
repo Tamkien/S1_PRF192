@@ -8,7 +8,7 @@
 */
 #include<stdio.h>
 #include<stdlib.h>
-int odd(n)
+void odd(n)
 {
 	while (n > 0)
 	{
@@ -18,7 +18,6 @@ int odd(n)
 		}
 		n = n / 10;
 	}
-	return n;
 }
 main()
 {
