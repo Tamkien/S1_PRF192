@@ -49,10 +49,6 @@ main()
 					printf("%d is the number you're looking for.\n\n", n);
 					break;
 				}
-				else
-				{
-					prime(n);
-				}
 			} while (1);
 		}
 
