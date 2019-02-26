@@ -18,7 +18,7 @@ main()
 		{
 			for ( g = 1; g < 100; g++)
 			{
-				if (d+n+g==100&&g%3==0&&5*d+3*n+g/3==100)
+				if (d+n+g==100 && g%3==0 && 5*d+3*n+g/3==100)
 				{
 					printf("%d trau dung, %d trau nam, %d trau gia.\n", d, n, g);
 				}
