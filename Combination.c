@@ -1,3 +1,11 @@
+/*
+*File name:
+*Source file name:
+*Author: Tamkien Cao
+*Last modified: Tue, Feb 26th, 2019
+*Other info: exercise 3.6b
+*Version: 1.0
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int fac(int n)
