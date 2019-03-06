@@ -94,6 +94,7 @@ int highsnt(int n)//tim so sieu nguyen to lon hon n
 int main()
 {
 	int n;
+	printf("Phan mem nay se giup ban kiem tra so nguyen to, va tim ra so sieu nguyen to gan nhat voi so ban nhap\n");
 	printf("Nhap 0 de ket thuc chuong trinh.\n");
 	while (1)
 	{
