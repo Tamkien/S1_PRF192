@@ -2,30 +2,37 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Tue, Mar 5th, 2019
+*Last modified: Thu, Mar 7th, 2019
 *Other info:
 -Exercise 5.1
+-Version 2.0
+--Changelog: Thay doi thuat toan ngon lanh hon
 */
 #include <stdio.h>
 #include <stdlib.h>
-int max(int n)
+void max()
 {
-	int a[100];
-	for (int i = 1; i <= n; i++)
+	int a[100], thutu;
+	printf("Phan mem nay giup ban tim ra so lon nhat trong day cua ban. Nhap 0 de ket thuc day.\n");
+	for (int i = 1; i < INT_MAX; i++)
 	{
-		printf("Nhap so thu %d\n", i);
+		printf("Nhap n = ");
 		scanf_s("%d", &a[i]);
-		if (a[i] > a[1])
+		if (a[i]==0)
+		{
+			break;
+		}
+		else if (a[i]>a[1])
+		{
 			a[1] = a[i];
+			thutu = i;
+		}
 	}
-	return a[1];
+	printf("So lon nhat la %d, va do la so thu %d ma ban nhap vao.\n", a[1], thutu);
 }
-int main(int argc, char const *argv[])
+int main()
 {
-	int n;
-	printf("Co bao nhieu so?\n");
-	scanf_s("%d", &n);
-	printf("So lon nhat la %d\n", max(n));	
+	max();
 	printf("\n=================================\n");
 	printf("Written by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
