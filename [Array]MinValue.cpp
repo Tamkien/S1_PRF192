@@ -11,7 +11,7 @@
 void min()
 {
 	int a[100], thutu;
-	printf("Phan mem nay giup ban tim ra so nho nhat trong day cua ban.\n");
+	printf("Phan mem nay giup ban tim ra so nho nhat trong day cua ban. Nhap 0 de ket thuc day.\n");
 	for (int i = 1; i < INT_MAX; i++)
 	{
 		printf("Nhap n = ");
