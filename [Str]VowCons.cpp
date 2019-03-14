@@ -26,7 +26,7 @@ void counting(char s[100])
 		}
 	}
 	con = count - vow;
-	printf("\"%s\" has %d alphabets, including %d vowel(s) and %d consonants.\n", s, count, vow, con);
+	printf("\"%s\" has %d alphabets, including %d vowel(s) and %d consonant(s).\n", s, count, vow, con);
 }
 int main() {
 	char s[100];
@@ -34,5 +34,7 @@ int main() {
 	printf("\nEnter a string here:\t");
 	gets_s(s);
 	counting(s);
+	printf("\n=================================\n");
+	printf("Written by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
 }
