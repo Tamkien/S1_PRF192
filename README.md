@@ -1,6 +1,2 @@
 # S1_PRF192
-These codes were written in the view of completing my exercise at the university.
-Thực tình thì mình cũng chưa thực sự hiểu ý nghĩa của file readme này. 
-Cũng đã gần một kỳ học rồi và có lẽ cái repo này phải dài gấp rưỡi thì mình mới hài lòng. 
-Ngày viết những dòng này là 14/3. Khá mệt. Nhưng vì tương lai, mình vẫn vùng dậy tiến về nhà Alpha để dự lớp học tối. 
-Tích đủ đức thì code sẽ chạy!
+Tất cả những dòng code trong repo này là do bàn tay và khối óc của mình tạo ra. Mình trân trọng và yêu thương chúng như con đẻ. Ngày qua ngày, bạn sẽ thấy ở đây thêm nhiều file, nhiều repo được public. Tích đủ đức thì code sẽ chạy!
