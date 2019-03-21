@@ -34,5 +34,7 @@ int main()
 	printf("Day khong doi xung\n");
 	else
 	printf("Day doi xung\n");
+	printf("\n=================================\n");
+	printf("Written by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
 }
