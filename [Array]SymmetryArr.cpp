@@ -31,9 +31,9 @@ int main()
 	printf("Day co bao nhieu so?\t");
 	scanf_s("%d", &n);
 	if (dx(n) == 0)
-	printf("Day khong doi xung\n");
+		printf("Day khong doi xung\n");
 	else
-	printf("Day doi xung\n");
+		printf("Day doi xung\n");
 	printf("\n=================================\n");
 	printf("Written by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
