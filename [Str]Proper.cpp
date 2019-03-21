@@ -1,3 +1,11 @@
+/*
+*File name:
+*Source file name:
+*Author: Tamkien Cao
+*Last modified: Thu, Mar 21st, 2019
+*Other info:
+-Exercise 6.5
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -53,5 +61,7 @@ int main()
 		fix(c);
 		printf("\n");
 	}
+	printf("\n=================================\n");
+	printf("Written by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
 }
