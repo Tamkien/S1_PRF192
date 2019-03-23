@@ -23,3 +23,6 @@ Mình trân trọng và yêu thương chúng như con đẻ.
 Chừng nào mình chưa qua môn, bạn sẽ còn thấy ở đây thêm nhiều file, nhiều repo được upload lên đây.
 
 Quan điểm là, tích đủ đức thì code sẽ chạy!
+
+---
+©Tamkien Cao
