@@ -8,7 +8,7 @@ Although my codes might not be so professional, but all of them were created by 
 
 I love them as much as i love my children.
 
-As long as the subject is not finished, there will be more and more files and repositỏies uploaded here.
+As long as the subject is not finished, there will be more and more files and repositories uploaded here.
 
 In my opinion, if you're ethical enough, the codes will run!
 
