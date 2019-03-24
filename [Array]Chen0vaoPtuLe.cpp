@@ -3,7 +3,7 @@
 *Source file name:
 *Author: Tamkien Cao
 *Last modified: Sun, Mar 24th, 2019
-*Other info: exercise 5.14
+*Other info: exercise 5.16
 */
 #include <stdio.h>
 #include <stdlib.h>
