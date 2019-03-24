@@ -10,7 +10,7 @@
 int main()
 {
 	int a[100], n, insert = 0, i;
-	printf("Phan mem nay se them mot phan tu trong day cua ban.");
+	printf("Phan mem nay se them phan tu 0 vao sau phan tu le trong day cua ban.");
 	printf("Nhap day cua ban, nhap 0 de ket thuc nhap:\n");
 	for (i = 1; i < INT_MAX; i++)
 	{
