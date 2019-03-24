@@ -6,7 +6,7 @@
 
 Although my codes might not be so professional, but all of them were created by my own hands and brain, in C language. They run perfectly on MS Visual Studio.
 
-I love them as much as i love my children.
+I appreciate and love them as much as my children.
 
 As long as the subject is not finished, there will be more and more files and repositories uploaded here.
 
