@@ -3,7 +3,7 @@
 *Source file name:
 *Author: Tamkien Cao
 *Last modified: Mon, Mar 25th, 2019
-*Other info: exercise 6.8
+*Other info: exercise 6.14
 Y tuong la: dem xong 1 loai ky tu thi xoa no di de khoi phai dem lai.
 */
 #include <stdio.h>
