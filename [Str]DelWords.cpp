@@ -3,8 +3,10 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Mon, Mar 25th, 2019
+*Last modified: Tue, Mar 26th, 2019
 *Other info: exercise 6.12
+*Version 1.1
+-Removed an unnecessary variable.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -51,7 +53,7 @@ char run(char a[], char tucanxoa[])//can cai nay vi mot tu co the xuat hien nhie
 }
 int main()
 {
-	int check = 1, vitri;
+	int check = 1;
 	char a[1000], tucanxoa[1000];
 	printf("This program can delete a word in your string. If that word appears multiple times, all of them will be deleted.\n");
 	printf("Enter a string here:\t");
