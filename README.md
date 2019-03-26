@@ -16,7 +16,7 @@ In my opinion, if you're ethical enough, the codes will run!
 
 [vi] Đây là code mình viết để hoàn thành bài tập môn PRF192 (Nhập môn lập trình với C)
 
-Tất cả những dòng code trong repo này có thể còn chưa chuẩn chỉnh nhưng đều là do bàn tay và khối óc của mình tạo ra, viết bằng ngôn ngữ C, đều chạy ngon lành trên MS Visual Studio. 
+Tất cả những dòng code trong repo này có thể còn chưa chuẩn chỉ nhưng đều là do bàn tay và khối óc của mình tạo ra, viết bằng ngôn ngữ C, đều chạy ngon lành trên MS Visual Studio. 
 
 Mình trân trọng và yêu thương chúng như con đẻ. 
 
