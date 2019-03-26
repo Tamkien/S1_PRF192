@@ -2,8 +2,10 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Sun, Mar 24th, 2019
+*Last modified: Tue, Mar 26th, 2019
 *Other info: exercise 5.15
+*Version 2.0 final
+-Changelog: Added a briliant line :) Last version chạy sai :) 
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -24,11 +26,12 @@ int main()
 	{
 		if (a[i] % 2 == 0)
 		{
-			for (int j=i;j <= n; j++)
+			for (int j = i; j <= n; j++)
 			{
 				a[j] = a[1 + j];
 			}
 			n--;
+			i--;//thieu dong nay thi no deo chay dung chu co lam sao :)
 		}
 	}
 
