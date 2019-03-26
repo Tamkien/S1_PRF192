@@ -12,7 +12,7 @@ int main()
 {
 	int dem[1000], xet[1000], n = 0, max=0, x = 0;
 	char a[1000], kytu;
-	printf("This program can delete a character as you choose in your string.\n");
+	printf("This program can find out which character appears the most times.\n");
 	printf("Enter your string:\n");
 	gets_s(a);
 	//Doan nay la dem so cac ky tu
