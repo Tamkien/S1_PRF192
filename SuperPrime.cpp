@@ -2,11 +2,10 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Wed, Mar 6th, 2019
+*Last modified: Wed, Apr 3rd, 2019
 *Version 2.0
-*Changelog: 
-- So sieu nguyen to nho nhat la 23.
-- Fixed some minor bugs.
+*Changelog:
+	-Delete an unnecessary line.
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -108,7 +107,6 @@ int main()
 		else if (0 > n || 30000 < n)
 		{
 			printf("Nhap sai, vui long nhap lai.\n");
-			scanf_s("%d", &n);
 		}
 		else
 		{
@@ -122,7 +120,7 @@ int main()
 				printf("%d la so nguyen to.\n", n);
 			}
 			//so sieu nguyen to gan nhat:
-			if (n<23)
+			if (n < 23)
 			{
 				printf("So sieu nguyen to gan %d nhat la 23.\n", n);//so snt nho nhat la 23
 			}
