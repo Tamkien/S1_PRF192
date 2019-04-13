@@ -36,7 +36,8 @@ if (a+b>c&&b+c>a&&c+a>b)//dieu kien de la 3 canh cua tam giac
 			printf("Tam giac cua ban la mot tam giac vuong!");
 		}
 	}
-	else//neu ko vuong thi moi xet. viet kieu nay phai xet vuong truoc vi tam giac thuong thi ko the co he thuc pytago, con tam giac vuong thi lai co the can.
+	else//neu ko vuong thi moi xet. viet kieu nay phai xet vuong truoc vi tam giac thuong thi ko the co he thuc pytago,
+		//con tam giac vuong thi lai co the can.
 	{	
 		if ((a==c&&a!=b)||(a==b&&b!=c)||(b==c&&c!=a))//2 canh bang nhau va khac canh con lai
 		{
@@ -57,6 +58,6 @@ else//ko dat dieu kien dau tien
 {
 	printf("Ba so tren khong the la do dai cac canh cua mot tam giac!\n");
 }
-	printf("\n=================================\nWritten by Tamkien Cao. Thank you for using my application!\n");//credit line, neu xoa dong nay ctrinh se ko chay duoc;
+	printf("\n=================================\nWritten by Tamkien Cao. Thank you for using my application!\n");
 	system("pause");
 }
