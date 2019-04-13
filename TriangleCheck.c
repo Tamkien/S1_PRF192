@@ -15,7 +15,7 @@ main()
 /*
 Nguyen tac: 
 1. xet xem co phai la 3 canh tam giac hay ko
-2. xet xem no co vuong hay ko
+2. xet xem no co vuong hay ko bang pitago, neu ko dat pitago tuc la khong vuong.
 	a. Neu vuong thi xet xem co vuong can hay ko
 	b. Neu ko vuong thi se xet xem can, deu hay thuong.
 ******Chu y cach nhap lieu, lam linh tinh sml co ngay :)
@@ -36,8 +36,7 @@ if (a+b>c&&b+c>a&&c+a>b)//dieu kien de la 3 canh cua tam giac
 			printf("Tam giac cua ban la mot tam giac vuong!");
 		}
 	}
-	else//neu ko vuong thi moi xet. viet kieu nay phai xet vuong truoc vi tam giac thuong thi ko the co he thuc pytago,
-		//con tam giac vuong thi lai co the can.
+	else
 	{	
 		if ((a==c&&a!=b)||(a==b&&b!=c)||(b==c&&c!=a))//2 canh bang nhau va khac canh con lai
 		{
