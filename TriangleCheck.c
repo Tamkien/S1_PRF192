@@ -24,7 +24,7 @@ if (a+b>c&&b+c>a&&c+a>b)//dieu kien de la 3 canh cua tam giac
 {	a2=a*a;
 	b2=b*b;
 	c2=c*c;
-	
+//---	
 	if ((a2+b2)==(c2)||(a2+c2)==(b2)||(c2+b2)==(a2))//pitago
 	{
 		if ((a==c)||(a==b)||(b==c))//vua vuong vua can
