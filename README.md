@@ -2,7 +2,7 @@
 
 ---
 
-[en] These codes were written to complete my assignments of PRF192 (Fundamental Programming with C)
+[en] These codes were written to complete my assignments of PRF192 ( Programming Fundamentals with C)
 
 Although my codes might not be so professional, but all of them were created by my own hands and brain, in C language. They run perfectly on MS Visual Studio.
 
