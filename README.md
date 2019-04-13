@@ -8,7 +8,7 @@ Although my codes might not be so professional, but all of them were created by 
 
 I appreciate and love them as much as my children.
 
-As long as the subject is not finished, there will be more and more files uploaded here.
+I've passed the subject, so no more files will be uploaded here, but if you find any bugs, tell me and i'll fix them.
 
 In my opinion, if you're ethical enough, the codes will run!
 
@@ -20,7 +20,7 @@ Tất cả những dòng code trong repo này có thể còn chưa chuẩn chỉ
 
 Mình trân trọng và yêu thương chúng như con đẻ. 
 
-Chừng nào mình chưa qua môn, bạn sẽ còn thấy thêm nhiều file được upload lên đây.
+Mình qua môn rồi nên sẽ không up thêm file vào repo này nữa, nhưng nếu có bug thì mình vẫn fix bình thường.
 
 Quan điểm là, tích đủ đức thì code sẽ chạy!
 
