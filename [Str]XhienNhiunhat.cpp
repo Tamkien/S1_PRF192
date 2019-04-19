@@ -2,19 +2,20 @@
 *File name:
 *Source file name:
 *Author: Tamkien Cao
-*Last modified: Tue, Mar 26th, 2019
+*Last modified: Fri, Apr 19th, 2019
 *Other info: exercise 6.13
+-Added more comments
 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 int main()
 {
-	int dem[1000], xet[1000], n = 0, max=0, x = 0;
+	int dem[1000], xet[1000], n = 0, max = 0, x = 0;
 	char a[1000], kytu;
 	printf("This program can find out which character appears the most times.\n");
 	printf("Enter your string:\n");
-	gets_s(a);
+	gets_s(a);//vi du nhap vao xxxxyxyzxyxz
 	//Doan nay la dem so cac ky tu
 	for (int i = 0; i < strlen(a); i++)
 	{
@@ -23,7 +24,7 @@ int main()
 		{
 			if (a[i] == a[k] && k != i)
 			{
-				break;
+				break;//chi dem cac ky tu lan dau, neu xet thay ky tu duoc dem roi thi bo qua, ko dem nua, cho do la gtri 0
 			}
 			else if (k == i)
 			{
@@ -31,13 +32,13 @@ int main()
 				{
 					if (a[i] == a[j])
 					{
-						dem[i]++;
+						dem[i]++;//tu j den strlen, neu trung thi dem +1
 					}
 				}
 			}
 		}
 	}
-	//Ket qua doan truoc kieu nhu x000y00z0000. Doan tiep theo la xoa so 0, don vao mang xet[]
+	//Ket qua doan tren se la X000Y00Z0000, X Y Z la so lan xuat hien cua cac ky tu x y z. Doan tiep theo la xoa so 0, don vao mang xet[]
 	for (int i = 0; i < strlen(a); i++)
 	{
 		if (dem[i] != 0)
@@ -45,7 +46,7 @@ int main()
 			xet[n] = dem[i];
 			n++;
 		}
-	}
+	}//mang xet nay chi con 3 ptu X, Y, Z
 	//Doan nay tim max
 	for (int i = 0; i < n; i++)
 	{
