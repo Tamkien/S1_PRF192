@@ -10,7 +10,7 @@ I appreciate and love them as much as my children.
 
 I've passed the subject, so no more files will be uploaded here, but if you find any bugs, tell me and i'll fix them.
 
-In my opinion, if you're ethical enough, the codes will run!
+You can copy my codes for sure. However, as those codes took my time and energy, please consider giving me a packet of noodle by donating me through MoMo, my number is 0854 812 361, account name Cao Tam Kien. Thank you.
 
 ---
 
@@ -22,7 +22,7 @@ Mình trân trọng và yêu thương chúng như con đẻ.
 
 Mình qua môn rồi nên sẽ không up thêm file vào repo này nữa, nhưng nếu có bug thì mình vẫn fix bình thường.
 
-Quan điểm là, tích đủ đức thì code sẽ chạy!
+Bạn có thể copy code của mình miễn phí, tất nhiên rồi. Tuy nhiên vì viết code tốn nhiều thời gian và công sức, làm ơn nghĩ tới việc mua cho mình gói mì tôm bằng cách ủng hộ mình qua Momo, số điện thoại 0854 812 361, tên tài khoản là Cao Tam Kiên. Xin cảm ơn.
 
 ---
 ©Tamkien Cao
