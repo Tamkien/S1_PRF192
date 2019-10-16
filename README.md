@@ -13,6 +13,7 @@ I've passed the subject, so no more files will be uploaded here, but if you find
 You can copy my codes for sure. However, as those codes took my time and energy, please consider giving me a packet of noodle by donating me through MoMo, my number is 0854 812 361, account name Cao Tam Kien. Thank you.
 
 Update Oct 16 2019: After 3 semesters of coding, I found out that these codes are so embarrassing ;-; But, everything has its own start doesn't it? :D
+
 ---
 
 [vi] Đây là code mình viết để hoàn thành bài tập môn PRF192 (Nhập môn lập trình với C)
@@ -26,5 +27,6 @@ Mình qua môn rồi nên sẽ không up thêm file vào repo này nữa, nhưng
 Bạn có thể copy code của mình miễn phí, tất nhiên rồi. Tuy nhiên vì viết code tốn nhiều thời gian và công sức, làm ơn nghĩ tới việc mua cho mình gói mì tôm bằng cách ủng hộ mình qua Momo, số điện thoại 0854 812 361, tên tài khoản là Cao Tam Kiên. Xin cảm ơn.
 
 Cập nhật ngày 16 tháng 10 2019. Sau 3 kỳ học code, tôi bắt đầu thấy xấu hổ với những dòng code này ;-; Cơ mà cái gì cũng phải có đoạn khởi đầu phải không? :D
+
 ---
 ©Tamkien Cao
